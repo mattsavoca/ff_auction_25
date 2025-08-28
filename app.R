@@ -926,7 +926,7 @@ ui <- fluidPage(
         });
     ")),
     
-    titlePanel("FFFL Auction Sim"),
+    titlePanel("FFFL Auction Simulator"),
     
     # Toggle button
     tags$button(
